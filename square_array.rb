@@ -5,4 +5,4 @@ def square_array(array)
     new_array << squared
   return new_array
 end
-end 
+end
