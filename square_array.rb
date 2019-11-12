@@ -4,5 +4,5 @@ def square_array(array)
     squared = number * number
     new_array << squared
   end
-  return new_arrary 
+  return new_array 
 end
