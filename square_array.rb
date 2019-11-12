@@ -3,6 +3,6 @@ def square_array(array)
     new_array = []
     squared = number * number
     new_array << squared
-  end
   return new_array 
+end 
 end
